@@ -1,0 +1,1 @@
+A prototype of a digital library system made in python, where you borrow books, add a book to the library and return a book. It is as simple as it can be for now, looking forward to adding a nice Graphical User Interface
